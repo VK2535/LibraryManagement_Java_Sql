@@ -16,7 +16,9 @@
 
  # Requirements 
 
- Any IDE which supports Java , Xampp Server for Sql
+ - Any IDE which supports Java 
+ - Xampp Server for Sql
+ - I use Netbeans IDE for this Project
 
 # What I Use ?
 
