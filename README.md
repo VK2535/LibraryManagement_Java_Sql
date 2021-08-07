@@ -18,11 +18,13 @@
 
  - Any IDE which supports Java 
  - Xampp Server for Sql
- - I use Netbeans IDE for this Project
+ 
 
 # What I Use ?
 
- I use Swing Components in Java , Xampp Server for Sql
+ - I use Swing Components in Java 
+ - Xampp Server for Sql
+ - I use Netbeans IDE for this Project
 
 # How to use
 
